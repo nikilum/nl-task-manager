@@ -1,0 +1,5 @@
+.n-input {
+  &__input-el:disabled::placeholder {
+    font-size: 0 !important;
+  }
+}

@@ -1,0 +1,14 @@
+@import "variables.scss";
+@import "main.scss";
+@import "helpers.scss";
+@import "naive/card.scss";
+@import "naive/form.scss";
+@import "naive/input.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
